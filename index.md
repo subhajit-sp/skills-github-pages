@@ -1,5 +1,7 @@
 ---
-#title: Welcome to my blog!
-##Hope you enjoy !!
+# Welcome to my blog!
+
+## Hope you enjoy !!
+
 ### Contact us for Help
 ---
